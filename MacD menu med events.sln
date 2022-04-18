@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacD menu med events", "MacD menu med events\MacD menu med events.csproj", "{9C3FAEAF-9EB1-4F83-AE96-9C4A5F7E8241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3FAEAF-9EB1-4F83-AE96-9C4A5F7E8241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3FAEAF-9EB1-4F83-AE96-9C4A5F7E8241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3FAEAF-9EB1-4F83-AE96-9C4A5F7E8241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3FAEAF-9EB1-4F83-AE96-9C4A5F7E8241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {177C4059-F5CC-4BB0-9881-6DEB5A1FE4AE}
+	EndGlobalSection
+EndGlobal
